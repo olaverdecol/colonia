@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: Quiénes somos
 ---
 ### Ola Verde 2021
