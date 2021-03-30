@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products
+path: /calendario
 title: Calendario
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
